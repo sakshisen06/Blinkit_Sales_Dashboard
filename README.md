@@ -18,5 +18,7 @@ This project analyzes Blinkit’s sales data to provide actionable insights that
 
 #  Tools Used
 • Power BI : Interactive dashboards.
+
 • DAX : Advanced KPIs and calculations.
+
 • Excel : Data preprocessing.
